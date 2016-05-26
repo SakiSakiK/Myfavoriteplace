@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブンイレブン",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 25
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.401193857193,
+            35.568146273000416
+          ],
+          [
+            139.4005823135376,
+            35.56876589439346
+          ],
+          [
+            139.4007110595703,
+            35.568853164627235
+          ]
+        ]
+      }
+    }
+  ]
+}
